@@ -15,7 +15,7 @@ Setting up a Hello World page on Amazon AWS
   *  Once the instance is created, from the EC2 Manager portal, the 'connect' button at the top of the page has great info on SSHing into your instance.
   *  SSH into instance
 
-2. Set up GOT (time: 10 minutes)
+2. Set up GOT (time: 15 minutes)
   1. prerequisites: github account
   2. useful tutorials: 
     * all git-hub documentation
