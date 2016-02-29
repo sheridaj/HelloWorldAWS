@@ -45,3 +45,8 @@ Setting up a Hello World page on Amazon AWS
   * The Flask tutorial does a great job of explaining templates.  Follow the tutorial to create the example template.  From there, add an img tag and point it to the S3 hosted image.  Add a width and height parameter to the image to not have it 'explode' the page.
   
 5. Document (time: 10 minutes)
+  * To view into the Hello World page
+    * SSH into the AWS instance (See Step 1 about setting up AWS instance) and execute ./run.py
+    * go to this link: http://ec2-52-32-64-220.us-west-2.compute.amazonaws.com:5000
+  * To edit the Hello World page
+    * On the instance, Edit the /home/ubuntu/app/templates/index.html file 
